@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Masonwindu77
+- 👀 I’m interested in AI bot coding, cybersecurity, and web development.
+- 🌱 I’m currently learning how to estimate more correctly in development projects. 
